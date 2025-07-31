@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi, I'm Ketema Harris 👋
 
-<!--
-**ketema/ketema** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a lifelong programmer and software creator with over 20 years of professional experience.  I serve as Director of Development at Blue Shield of California.
 
-Here are some ideas to get you started:
+My passion lies in Test Driven functional programming.  Haskell is my favorite language followed by Python, PERL, Rust, and shell scripting.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Recently I have reignited my passion for architecting robust software through AI assistance.  As a father and husband time is a luxury and I am enjoying new found productivity gains.
+
+Beyond tech, I believe in maintaining both body and mind: I stay physically fit, love exploring and traveling, and enjoy glamping in my truck and riding my dirt bike.
+
+- Instagram: [@ketema77](https://instagram.com/ketema77)
+- X (Twitter): [@ketema](https://twitter.com/ketema)
+- Email: ketema@gmail.com
+- LinkedIn: [Ketema Harris](https://www.linkedin.com/in/ketema)
+
+<!-- Let's connect and build something amazing! -->
