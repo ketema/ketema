@@ -8,9 +8,9 @@ Recently I have reignited my passion for architecting robust software through AI
 
 Beyond tech, I believe in maintaining both body and mind: I stay physically fit, love exploring and traveling, and enjoy glamping in my truck and riding my dirt bike.
 
-- Instagram: [@ketema77](https://instagram.com/ketema77)
+
 - X (Twitter): [@ketema](https://twitter.com/ketema)
-- Email: ketema@gmail.com
 - LinkedIn: [Ketema Harris](https://www.linkedin.com/in/ketema)
+- Email: ketema@gmail.com
 
 <!-- Let's connect and build something amazing! -->
